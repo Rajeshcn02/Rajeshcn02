@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![image_1](https://raw.githubusercontent.com/Rajeshcn02/Rajeshcn02/main/unnamed.gif)
-![image_1](https://github.com/Rajeshcn02/Rajeshcn02/blob/main/jerry-the-mouse-running.gif?raw=true)
